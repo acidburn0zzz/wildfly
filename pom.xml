@@ -113,7 +113,7 @@
         <version.jaxen>1.1.6</version.jaxen>
         <version.jboss.jaxbintros>1.0.2.GA</version.jboss.jaxbintros>
         <version.joda-time>2.9.7</version.joda-time>
-        <version.jsoup>1.8.3</version.jsoup>
+        <version.jsoup>1.14.2</version.jsoup>
         <version.net.jcip>1.0</version.net.jcip>
         <version.net.shibboleth.utilities.java-support>7.1.1</version.net.shibboleth.utilities.java-support>
         <version.org.apache.activemq.artemis>1.5.5.jbossorg-007</version.org.apache.activemq.artemis>

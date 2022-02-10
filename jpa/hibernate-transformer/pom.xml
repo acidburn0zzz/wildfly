@@ -41,7 +41,7 @@
     <name>WildFly: Hibernate ORM 5.1 bytecode transformer</name>
 
     <properties>
-        <version.org.hibernate>5.1.14.Final</version.org.hibernate>
+        <version.org.hibernate>5.4.24.Final</version.org.hibernate>
     </properties>
 
     <dependencies>

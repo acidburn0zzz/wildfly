@@ -17,7 +17,7 @@
     </parent>
 
     <properties>
-        <version.org.hibernate4_2>4.2.13.Final</version.org.hibernate4_2>
+        <version.org.hibernate4_2>5.4.24.Final</version.org.hibernate4_2>
         <version.org.hibernate4_2.commons.annotations>4.0.1.Final</version.org.hibernate4_2.commons.annotations>
     </properties>
 

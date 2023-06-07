@@ -47,7 +47,7 @@
         <!-- This value is overridden in modules with the correct relative pathname. -->
         <jboss.dist>${jbossas.project.dir}/${wildfly.build.output.dir}</jboss.dist>
         <ts.elytron.cli>../shared/enable-elytron.cli</ts.elytron.cli>
-        <version.org.hibernate>5.1.14.Final</version.org.hibernate>
+        <version.org.hibernate>5.3.20.Final</version.org.hibernate>
     </properties>
 
     <!--

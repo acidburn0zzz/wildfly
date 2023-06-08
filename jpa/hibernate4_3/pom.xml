@@ -16,7 +16,7 @@
     </parent>
 
     <properties>
-        <version.org.hibernate4_3>4.3.10.Final</version.org.hibernate4_3>
+        <version.org.hibernate4_3>5.3.20.Final</version.org.hibernate4_3>
     </properties>
 
     <artifactId>jipijapa-hibernate4-3</artifactId>

@@ -294,7 +294,7 @@
         <version.com.github.spullara.mustache>0.9.6</version.com.github.spullara.mustache>
         <version.com.github.tomakehurst.wiremock>2.20.0</version.com.github.tomakehurst.wiremock>
         <version.com.google.code.gson>2.8.6</version.com.google.code.gson>
-        <version.com.google.guava>30.1-jre</version.com.google.guava>
+        <version.com.google.guava>32.0.0-jre</version.com.google.guava>
         <version.com.google.guava.failureaccess>1.0.1</version.com.google.guava.failureaccess>
         <version.com.h2database>1.4.197</version.com.h2database>
         <version.com.microsoft.azure>8.6.5</version.com.microsoft.azure>

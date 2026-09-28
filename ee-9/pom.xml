@@ -42,7 +42,7 @@
         <preview.dist.product.release.version>${full.dist.product.release.version}</preview.dist.product.release.version>
 
         <!-- Version properties for dependency management items -->
-        <version.jakarta.mail>2.0.0</version.jakarta.mail>
+        <version.jakarta.mail>1.6.8</version.jakarta.mail>
 
     </properties>
 
